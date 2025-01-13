@@ -25,7 +25,4 @@ JavaScript for dynamic functionality.
 Installation
 To run the project locally, follow these steps:
 
-Clone the repository:
-bash
-git clone https://github.com/your-username/temperature-conversion-app.git
-Open index.html in your web browser.
+
